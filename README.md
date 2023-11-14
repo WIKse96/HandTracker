@@ -5,6 +5,6 @@ Za pomocą tego repozytorium mam zamiar rozwinąć umiejętności python oraz pr
 
 
 
- Repository under construction, learning cv2 and mediapipe libraries 
+ Repository in progress, learning cv2 and mediapipe libraries 
 
 With the help of this repository, I intend to develop python skills and by the way learn mediapipe library and by the way learn to use cv2. The code is modeled after tutorials from yt.
