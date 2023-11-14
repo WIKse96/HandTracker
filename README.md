@@ -1,7 +1,7 @@
 # HandTracker
  Repozytorium w budowie, nauka bibliotek cv2 i mediapipe 
 
-Za pomocą tego repozytorium mam zamiar rozwinąć umiejętności python oraz przy okazji poznać bibliotekę mediapipe i przy okazjinauczyć się posługiwać cv2. Kod wzorowany na poradnikach z yt.
+Za pomocą tego repozytorium mam zamiar rozwinąć umiejętności python oraz przy okazji poznać bibliotekę mediapipe i nauczyć się posługiwać cv2. Kod wzorowany na poradnikach z yt.
 
 
 
